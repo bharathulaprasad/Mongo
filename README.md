@@ -1,6 +1,6 @@
 # Mongo db
 
-These are some problems solved using Mongodb with respect to COVID 19 data gathered as json format.
+These are some problems solved using Mongodb with respect to COVID 19 data gathered as csv format.
 #### Raw Data
 
 | Status        | Sheet Name | Link to CSV                                              | Description            |
